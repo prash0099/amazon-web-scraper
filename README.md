@@ -64,8 +64,8 @@ The output will be saved in a file named `scraped_product_data.csv` with the fol
 - The script uses `try-except` blocks to handle cases where some product details (name, price, or link) may be missing.
 
 ## Disclaimer
-- Amazon's Terms of Service: Web scraping may violate Amazon’s terms of service, and it's important to respect the site's rules. This project is for educational purposes only.
-- Legal Note: Make sure you understand the legal and ethical implications of web scraping before using this project for anything other than learning.
+- **Amazon's Terms of Service:** Web scraping may violate Amazon’s terms of service, and it's important to respect the site's rules. This project is for educational purposes only.
+- **Legal Note**: Make sure you understand the legal and ethical implications of web scraping before using this project for anything other than learning.
 
 ## License
 - This project is licensed under the MIT License - see the [LICENSE](https://github.com/prash0099/amazon-web-scraper/blob/main/MIT%20License) file for details.
