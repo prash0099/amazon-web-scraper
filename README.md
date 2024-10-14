@@ -44,7 +44,7 @@ pip install selenium
 ### 4. **Run the Script**: 
 Run the script by using the following command:
 ```
-python scraping_amazon.py
+python 'scraping amazon.py'
 ```
 The script will scrape product data for a specified product (in this case, laptops) and save it to a CSV file (`scraped_product_data.csv`).
 
